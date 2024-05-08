@@ -147,6 +147,8 @@ public class EnemyManager : MonoBehaviour
         }
     }
 
+
+
     public void GetWallpositions()
     {
         Transform[] allTransforms = FindObjectsOfType<Transform>();
